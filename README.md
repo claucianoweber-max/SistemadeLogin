@@ -67,16 +67,16 @@ Boas práticas de fechamento de recursos	O objeto Scanner é fechado ao final do
 
 Ter o Java JDK instalado em seu computador.
 
-Salve o arquivo como → SistemaLogin.java.
+Salve o arquivo como → ClassLoginSenha.java.
 
 Compile o código no terminal:
 
-javac SistemaLogin.java
+javac ClassLoginSenha.java
 
 
-Execute o programa:
+Execute a Classe para testar:
 
-java SistemaLogin
+java ClassLoginSenha
 
 ## → Requisitos
 
